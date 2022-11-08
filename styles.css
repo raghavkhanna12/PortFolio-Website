@@ -1,0 +1,217 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+
+}
+p{
+    line-height: 2;
+    color: #121212;
+    font-size: 18px;
+    font-family: "Sacramento", cursive;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.62rem;
+  color:rgb(207, 80, 34);
+}
+h2 {
+  margin-top: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: rgb(207, 80, 34);
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(207, 80, 34);
+}
+a {
+  color: #121212;
+  font-family: "Montserrat", sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+    color:white;
+}
+.top-container {
+  display: flex;
+  justify-content: space-around;
+  min-height: 86vh;
+
+}
+.middle-container {
+  padding-bottom: 50px;
+}
+.bottom-container {
+  padding-top: 20px;
+  height: 6.375rem;
+  background-color:rgb(207, 80, 34);
+}
+.cloud-1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.cloud-2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.img1 {
+  width: 22%;
+  float: left;
+  padding-right: 30px;
+}
+.img2 {
+  width: 24%;
+  float: right;
+  padding-left: 30px;
+}
+.text1 {
+  padding-bottom: 10px;
+  width:35%;
+  margin:auto;
+  font-family: "Sacramento", cursive;
+}
+hr {
+  width: 5%;
+  border-width: 5px;
+  border-style: dotted none none;
+  border-color: rgb(207, 80, 34);
+  margin: 50px auto 50px auto;
+}
+.footer-link {
+  padding-bottom: 20px;
+}
+.copyright {
+  color:#121212;
+  font-size: 1rem;;
+  margin-top: 30px;
+}
+.btn {
+  background: #d05000;
+  background-image: -webkit-linear-gradient(top, #d05000, #d05000);
+  background-image: -moz-linear-gradient(top, #d05000, #d05000);
+  background-image: -ms-linear-gradient(top, #d05000, #d05000);
+  background-image: -o-linear-gradient(top, #d05000, #d05000);
+  background-image: linear-gradient(to bottom, #d05000, #d05000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d05000;
+  background-image: -webkit-linear-gradient(top, #d05000, #d05000);
+  background-image: -moz-linear-gradient(top, #d05000, #d05000);
+  background-image: -ms-linear-gradient(top, #d05000, #d05000);
+  background-image: -o-linear-gradient(top, #d05000, #d05000);
+  background-image: linear-gradient(to bottom, #d05000, #d05000);
+  text-decoration: none;
+}
+.profile-photo {
+    margin:50px auto 30px;
+    width:200px;
+}
+.contact-message{
+    width:40%;
+    margin:20px auto 50px;
+}
+.auto-type{
+  margin: 10px;
+}
+.profile-photo{
+  border-radius: 50%;
+  width:200px ;
+  height: 200px;
+}
+.imee{
+height: 500px;
+width: 500px;
+}
+nav{
+  display:flex;
+  width: 80%;
+  margin:auto;
+  align-items: center;
+  justify-content: space-between;
+}
+li{
+  display: inline-block;
+  padding: 20px 10px;
+  margin: 20px;
+  font-family: "Sacramento", cursive;
+  
+}
+.kh{
+  margin-top: 6rem;
+}
+h2{
+  color: #212121;
+  font-family: "Sacramento", cursive;
+}
+.name{
+  font-size: 25px;
+  font-family: "Sacramento", cursive;
+}
+li{
+  font-size: 18px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.yy{
+  color: rgb(207, 80, 34);
+}
+.ll{
+  color:rgb(207, 80, 34);
+  font-family: "Sacramento", cursive;
+}
+.rg{
+  color:rgb(207, 80, 34);
+  font-family: "Sacramento", cursive;
+}
+a:hover{
+  color: rgb(207, 80, 34);
+}
+.kk{
+  color:#121212;
+}
+.footer-link:hover{
+color: white;
+}
+.cp{
+  font-size: 24px;
+  font-family: "Sacramento", cursive;
+}
+a{
+  font-family: "Sacramento", cursive;
+}
+.p{
+  color: rgb(207, 80, 34);
+}
+button{
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  color:rgb(207, 80, 34);
+  border: 2px solid rgb(207, 80, 34);
+  font-family: "Sacramento", cursive;
+ background-color: white; 
+}
+.vv:hover{
+  cursor: pointer;
+  background-color:rgb(207, 80, 34);
+  color: white;
+}
